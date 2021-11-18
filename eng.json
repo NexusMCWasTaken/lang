@@ -4,7 +4,7 @@
 	"prefix": "",
 	"currency": "$",
 	"contributors": ["xxAROX"],
-	"values": [
+	"values": {
 		"key": "value"
-	]
+	}
 }
