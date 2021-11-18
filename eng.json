@@ -5,6 +5,15 @@
 	"currency": "$",
 	"contributors": ["xxAROX"],
 	"values": {
-		"key": "value"
+		"key": "value",
+		"raw.coins": "Coins",
+		"raw.days": "Days",
+		"raw.day": "Day",
+		"raw.hours": "Hours",
+		"raw.hour": "Hour",
+		"raw.minutes": "Minutes",
+		"raw.minute": "Minute",
+		"raw.seconds": "Seconds",
+		"raw.second": "Second"
 	}
 }
