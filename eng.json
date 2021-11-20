@@ -15,6 +15,7 @@
 		"raw.minute": "Minute",
 		"raw.seconds": "Seconds",
 		"raw.second": "Second",
-		"message.onlyPlayers": "{PREFIX}Only for players"
+		"message.onlyPlayers": "{PREFIX}Only for players.",
+		"message.missingPermission": "{PREFIX}You don't have the permission to use that command."
 	}
 }
