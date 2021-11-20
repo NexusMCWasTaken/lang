@@ -1,7 +1,7 @@
 {
 	"name": "English",
 	"locale": "eng",
-	"prefix": "",
+	"prefix": "§3NexusMC §8§l» §r",
 	"currency": "$",
 	"contributors": ["xxAROX"],
 	"values": {
@@ -14,6 +14,7 @@
 		"raw.minutes": "Minutes",
 		"raw.minute": "Minute",
 		"raw.seconds": "Seconds",
-		"raw.second": "Second"
+		"raw.second": "Second",
+		"message.onlyPlayers": "{PREFIX}Only for players"
 	}
 }
