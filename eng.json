@@ -17,6 +17,6 @@
 		"raw.second": "Second",
 		"message.onlyPlayers": "{PREFIX}Only for players.",
 		"message.missingPermission": "{PREFIX}You don't have the permission to use that command.",
-		"message.unknownErrorHappend": "{PREFIX}§4Unknown error happend. §c§lPlease contact a Developer"
+		"message.unknownErrorHappened": "{PREFIX}§4Unknown error happend. §c§lPlease contact a Developer"
 	}
 }
