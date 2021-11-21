@@ -20,6 +20,7 @@
 		"message.unknownErrorHappened": "{PREFIX}§4Unknown error happend. §c§lPlease contact a Developer",
 		"message.setup.worldNotFound": "{PREFIX}§4World §c{0}§4 not found.",
 		"message.getdown.playerAtBottom": "{PREFIX}§a{0} reached the ground.",
+		"message.game.notStarting": "{PREFIX}§cGame is not starting yet.",
 		
 		"item.missingPermission": "§4Missing permission",
 		"item.start": "§aStart",
