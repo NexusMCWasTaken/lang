@@ -22,6 +22,8 @@
 		"message.getdown.playerAtBottom": "{PREFIX}§a{0} reached the ground.",
 		
 		"item.missingPermission": "§4Missing permission",
-		"item.start": "§aStart"
+		"item.start": "§aStart",
+		
+		"command.description.skip": "Skip lobby countdown"
 	}
 }
