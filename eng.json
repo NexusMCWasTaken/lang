@@ -21,6 +21,8 @@
 		"message.setup.worldNotFound": "{PREFIX}§4World §c{0}§4 not found.",
 		"message.getdown.playerAtBottom": "{PREFIX}§a{0} reached the ground.",
 		"message.game.notStarting": "{PREFIX}§cGame is not starting yet.",
+		"message.game.countdownSkippedAlready": "{PREFIX}§cGame was already skipped.",
+		"message.game.countdownSkipped": "{PREFIX}§aGame will start in §25§aseconds.",
 		
 		"item.missingPermission": "§4Missing permission",
 		"item.start": "§aStart",
