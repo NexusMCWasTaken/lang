@@ -5,7 +5,8 @@
 	"currency": "$",
 	"contributors": ["xxAROX"],
 	"values": {
-		"error": "§4Error",
+		"raw.error": "§4Error",
+		"raw.notEnoughCoins": "§cNot enough coins",
 		"raw.coins": "Coins",
 		"raw.days": "Days",
 		"raw.day": "Day",
