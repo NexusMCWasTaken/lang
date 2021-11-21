@@ -6,7 +6,7 @@
 	"contributors": ["xxAROX"],
 	"values": {
 		"raw.error": "§4Error",
-		"raw.price": "Price: {0}"
+		"raw.price": "Price: {0}",
 		"raw.notEnoughCoins": "§cNot enough coins",
 		"raw.coins": "Coins",
 		"raw.days": "Days",
