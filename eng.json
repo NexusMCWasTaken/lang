@@ -21,7 +21,7 @@
 		"message.setup.worldNotFound": "{PREFIX}§4World §c{0}§4 not found.",
 		"message.getdown.playerAtBottom": "{PREFIX}§a{0} reached the ground.",
 		
-		"item.missingPermission": "§4Missing permission"
+		"item.missingPermission": "§4Missing permission",
 		"item.start": "§aStart"
 	}
 }
