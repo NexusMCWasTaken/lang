@@ -28,6 +28,8 @@
 		
 		"item.missingPermission": "§4Missing permission",
 		"item.start": "§aStart",
+		"item.setup.cloudSign.add": "§r§aAdd sign",
+		"item.setup.cloudSign.remove": "§r§cRemove sign",
 		
 		"command.description.skip": "Skip lobby countdown",
 		
