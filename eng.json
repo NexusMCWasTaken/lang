@@ -19,6 +19,9 @@
 		"message.missingPermission": "{PREFIX}You don't have the permission to use that command.",
 		"message.unknownErrorHappened": "{PREFIX}§4Unknown error happend. §c§lPlease contact a Developer",
 		"message.setup.worldNotFound": "{PREFIX}§4World §c{0}§4 not found.",
-		"message.getdown.playerAtBottom": "{PREFIX}§a{0} reached the ground."
+		"message.getdown.playerAtBottom": "{PREFIX}§a{0} reached the ground.",
+		
+		"item.missingPermission": "§4Missing permission"
+		"item.start": "§aStart"
 	}
 }
