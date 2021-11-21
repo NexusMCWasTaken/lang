@@ -6,6 +6,7 @@
 	"contributors": ["xxAROX"],
 	"values": {
 		"raw.error": "§4Error",
+		"raw.price": "Price: {0}"
 		"raw.notEnoughCoins": "§cNot enough coins",
 		"raw.coins": "Coins",
 		"raw.days": "Days",
@@ -28,6 +29,10 @@
 		"item.missingPermission": "§4Missing permission",
 		"item.start": "§aStart",
 		
-		"command.description.skip": "Skip lobby countdown"
+		"command.description.skip": "Skip lobby countdown",
+		
+		"ui.title.enchanting": "Enchant",
+		
+		"ui.text.yourCoins": "Your coins: §9{0}"
 	}
 }
