@@ -26,6 +26,8 @@
 		"message.game.countdownSkippedAlready": "{PREFIX}§cGame was already skipped.",
 		"message.game.countdownSkipped": "{PREFIX}§aGame will start in §25§aseconds.",
 		
+		"message.cloudsigns.serverIsFull": "{PREFIX}§cServer is full.",
+		
 		"item.missingPermission": "§4Missing permission",
 		"item.start": "§aStart",
 		"item.setup.cloudSign.add": "§r§aAdd sign",
