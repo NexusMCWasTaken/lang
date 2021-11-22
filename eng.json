@@ -7,7 +7,6 @@
 	"values": {
 		"raw.error": "§4Error",
 		"raw.price": "Price: {0}",
-		"raw.notEnoughCoins": "§cNot enough coins",
 		"raw.coins": "Coins",
 		"raw.days": "Days",
 		"raw.day": "Day",
@@ -61,8 +60,18 @@
 		
 		"command.description.skip": "Skip lobby countdown",
 		
-		"ui.title.enchanting": "Enchant",
-		
-		"ui.text.yourCoins": "Your coins: §9{0}"
+		"ui.gewtdown.enchanting.title": "Enchant",
+		"ui.gewtdown.shop.title": "Shop",
+		"ui.gewtdown.shop.title.category": "Shop - {0}",
+
+		"ui.text.yourCoins": "§9Your Coins §c{0}",
+
+		"ui.button.cancel": "§cCancel",
+		"ui.button.close": "§cClose",
+		"ui.button.back": "§cBack",
+
+		"ui.getdown.error": "§4Error\n§7{0} do not exist.",
+		"ui.getdown.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
+		"ui.getdown.price": "§a{0}\n§6§o{1} Coins"
 	}
 }
