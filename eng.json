@@ -35,6 +35,7 @@
 		"time.second.short": "s",
 		"time.seconds": "seconds",
 		"message.onlyPlayers": "{PREFIX}Only for players.",
+		"message.player.notFound": "{ERROR}Player not found.",
 		"message.missingPermission": "{PREFIX}You don't have the permission to use that command.",
 		"message.unknownErrorHappened": "{PREFIX}§4Unknown error happend. §c§lPlease contact a Developer",
 		"message.setup.worldNotFound": "{PREFIX}§4World §c{0}§4 not found.",
