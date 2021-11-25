@@ -47,6 +47,11 @@
 
 		"message.cloudsigns.serverIsFull": "{PREFIX}§cServer is full.",
 
+		"message.group.notFound": "{ERROR}Your group was not found or deleted.",
+
+		"message.security.caps": "{PREFIX}§cThat message contains too much upper-case letters.",
+		"message.security.spam": "{PREFIX}§cPlease do not spam into the chat.",
+
 		"popup.game.startsIn": "§eStarting in §9{0}§e seconds",
 		"popup.game.getdown.roundEndsIn": "§eRound ends automatically in §9{0}§e seconds.",
 		"popup.game.getdown.matchStartsIn": "§eMatch starts in §9{0} seconds",
@@ -60,6 +65,7 @@
 		"item.setup.cloudSign.remove": "§r§cRemove sign",
 		
 		"command.description.skip": "Skip lobby countdown",
+		"command.description.fly": "You can fly",
 		
 		"ui.gewtdown.enchanting.title": "Enchant",
 		"ui.gewtdown.enchanting.title.long": "Enchant\n§9Item in your hand",
