@@ -49,6 +49,7 @@
 		"message.cloudsigns.serverIsFull": "{PREFIX}§cServer is full.",
 
 		"message.group.notFound": "{ERROR}Your group was not found or deleted.",
+		"message.group.created": "{PREFIX}§aCreated group {0}§a.",
 
 		"message.security.caps": "{PREFIX}§cThat message contains too much upper-case letters.",
 		"message.security.spam": "{PREFIX}§cPlease do not spam into the chat.",
@@ -68,19 +69,48 @@
 		"command.description.skip": "Skip lobby countdown",
 		"command.description.fly": "You can fly",
 		
-		"ui.gewtdown.enchanting.title": "Enchant",
-		"ui.gewtdown.enchanting.title.long": "Enchant\n§9Item in your hand",
-		"ui.gewtdown.shop.title": "Shop",
-		"ui.gewtdown.shop.title.category": "Shop - {0}",
+		"ui.getdown.enchanting.title": "Enchant",
+		"ui.getdown.enchanting.title.long": "Enchant\n§9Item in your hand",
+		"ui.getdown.shop.title": "Shop",
+		"ui.getdown.shop.title.category": "Shop - {0}",
+
+		"ui.getdown.error": "§4Error\n§7{0} do not exist.",
+		"ui.getdown.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
+		"ui.getdown.price": "§a{0}\n§6§o{1} Coins",
+
+		"ui.error.confirm": "You forgot to confirm!",
+
+		"ui.title.query": "{0} Results for {1}",
+		"ui.title.report": "Report Menu",
+		"ui.title.group": "Group Menu",
+		"ui.title.group.players": "Player Menu",
+		"ui.title.group.give": "Give Group: {0}",
+		"ui.title.group.info": "Group Info",
+		"ui.title.group.add": "Add Group",
 
 		"ui.text.yourCoins": "§9Your Coins §c{0}",
+		"ui.input.insertPlayer": "",
 
 		"ui.button.cancel": "§cCancel",
 		"ui.button.close": "§cClose",
 		"ui.button.back": "§cBack",
+		"ui.button.group.manage.group": "Manage groups",
+		"ui.button.group.manage.layers": "Manage players",
+		"ui.button.group.add": "Add group",
+		"ui.button.group.edit": "Edit group",
+		"ui.button.group.edit.permissions": "Edit group permissions",
+		"ui.button.group.edit.parents": "Edit group-parents",
+		"ui.button.group.delete": "Delete group",
+		"ui.button.group.info": "Group info",
+		"ui.button.group.player.give": "Set group to player",
+		"ui.button.group.player.info": "Player info",
+		"ui.button.group.player.permissions": "Edit player permissions",
 
-		"ui.getdown.error": "§4Error\n§7{0} do not exist.",
-		"ui.getdown.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
-		"ui.getdown.price": "§a{0}\n§6§o{1} Coins"
+		"ui.group.error.short.name": "Name is to short",
+		"ui.group.error.invalid.color": "Invalid color",
+		"ui.group.error.already": "Group {0} already exists",
+		"ui.group.error.invalid.permission": "Invalid permission",
+		"ui.group.error.already.permission": "Group has already {0} permission",
+		"ui.group.error.!already.permission": "Group doesn't has {0} permission"
 	}
 }
