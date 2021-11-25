@@ -38,6 +38,7 @@
 		"message.player.notFound": "{ERROR}Player not found.",
 		"message.missingPermission": "{PREFIX}You don't have the permission to use that command.",
 		"message.unknownErrorHappened": "{PREFIX}§4Unknown error happend. §c§lPlease contact a Developer",
+		"message.notEnoughCoins": "{PREFIX}§cYou do ot have enough coins.",
 		"message.setup.worldNotFound": "{PREFIX}§4World §c{0}§4 not found.",
 		"message.getdown.playerAtBottom": "{PREFIX}§a{0} reached the ground.",
 		"message.getdown.sneakAktion": "{PREFIX}§2Sneak to open shop.",
