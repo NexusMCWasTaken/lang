@@ -95,7 +95,7 @@
 		"ui.button.close": "§cClose",
 		"ui.button.back": "§cBack",
 		"ui.button.group.manage.group": "Manage groups",
-		"ui.button.group.manage.layers": "Manage players",
+		"ui.button.group.manage.players": "Manage players",
 		"ui.button.group.add": "Add group",
 		"ui.button.group.edit": "Edit group",
 		"ui.button.group.edit.permissions": "Edit group permissions",
