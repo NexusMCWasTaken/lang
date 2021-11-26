@@ -127,6 +127,8 @@
 		"ui.button.group.player.give": "Set group to player",
 		"ui.button.group.player.info": "Player info",
 		"ui.button.group.player.permissions": "Edit player permissions",
+		"ui.button.group.player.jump": "§2Jump to §a{0}",
+		"ui.button.group.player.jump.already": "§m§2Jump to §a{0}\n§c§oCan't jump, already connected.",
 
 		"ui.group.error.short.name": "Name is to short",
 		"ui.group.error.invalid.color": "Invalid color",
