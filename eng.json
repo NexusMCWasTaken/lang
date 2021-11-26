@@ -80,6 +80,8 @@
 
 		"message.group.notFound": "{ERROR}Your group was not found or deleted.",
 		"message.group.created": "{PREFIX}§aCreated group {0}§a.",
+		"message.group.expires.in": "{PREFIX}§cYour rank expires in §6{0}",
+		"message.group.expired": "{PREFIX}§cYour rank expired.",
 
 		"message.security.caps": "{PREFIX}§cThat message contains too much upper-case letters.",
 		"message.security.spam": "{PREFIX}§cPlease do not spam into the chat.",
