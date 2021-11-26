@@ -67,6 +67,14 @@
 		"message.game.countdownSkippedAlready": "{PREFIX}§cGame was already skipped.",
 		"message.game.countdownSkipped": "{PREFIX}§aGame will start in §25§a seconds.",
 		"message.alreadyVoted": "{PREFIX}§cYou voted already.",
+		"message.fly.enabled": "{PREFIX}§aFly enabled",
+		"message.fly.enabled.other": "{PREFIX}§aFly enabled for {0}",
+		"message.fly.disabled": "{PREFIX}§cFly disabled",
+		"message.fly.disabled.other": "{PREFIX}§cFly disabled for {0}",
+		"message.vanish.enabled": "{PREFIX}§aVanish enabled",
+		"message.vanish.enabled.other": "{PREFIX}§aVanish enabled for {0}",
+		"message.vanish.disabled": "{PREFIX}§cVanish disabled",
+		"message.vanish.disabled.other": "{PREFIX}§cVanish disabled for {0}",
 
 		"message.cloudsigns.serverIsFull": "{PREFIX}§cServer is full.",
 
