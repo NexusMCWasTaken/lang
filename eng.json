@@ -129,11 +129,13 @@
 		"ui.title.group.add": "Add Group",
 
 		"ui.text.yourCoins": "§9Your Coins §c{0}",
-		"ui.input.insertPlayer": "",
+		"ui.input.insertPlayer": "Insert player name",
 
 		"ui.button.cancel": "§cCancel",
 		"ui.button.close": "§cClose",
 		"ui.button.back": "§cBack",
+		"ui.button.add": "§2Add",
+		"ui.button.remove": "§4Remove",
 		"ui.button.group.manage.groups": "Manage groups",
 		"ui.button.group.manage.players": "Manage players",
 		"ui.button.group.add": "Add group",
