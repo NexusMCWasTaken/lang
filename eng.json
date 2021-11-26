@@ -75,6 +75,9 @@
 		"message.vanish.enabled.other": "{PREFIX}§aVanish enabled for {0}",
 		"message.vanish.disabled": "{PREFIX}§cVanish disabled",
 		"message.vanish.disabled.other": "{PREFIX}§cVanish disabled for {0}",
+		"message.hunger.enabled": "{PREFIX}§aHunger enabled",
+		"message.hunger.disabled": "{PREFIX}§cHunger disabled",
+		"message.command.usage": "§cUsage: §7{0}",
 
 		"message.cloudsigns.serverIsFull": "{PREFIX}§cServer is full.",
 
@@ -98,8 +101,13 @@
 		"item.setup.cloudSign.add": "§r§aAdd sign",
 		"item.setup.cloudSign.remove": "§r§cRemove sign",
 		
-		"command.description.skip": "Skip lobby countdown",
-		"command.description.fly": "You can fly",
+		"command.description.skip": "Perform a skip.",
+		"command.description.fly": "You can fly.",
+		"command.description.vanish": "You can vanish yourself.",
+		"command.description.heal": "Heal yourself.",
+		"command.description.feed": "Feed yourself.",
+		"command.description.nick": "Nick yourself to bypass annoying players.",
+
 		
 		"ui.getdown.enchanting.title": "Enchant",
 		"ui.getdown.enchanting.title.long": "Enchant\n§9Item in your hand",
