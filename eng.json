@@ -84,6 +84,10 @@
 		"message.challenge": "{PREFIX}You challenged {0}.",
 		"message.challenge.player": "{PREFIX}You were challenged by {0}.",
 		"message.challenge.undo": "{PREFIX}message.challenge.undo",
+		"message.queue.join": "{PREFIX}You joined the Queue.",
+		"message.queue.leave": "{PREFIX}You left the Queue.",
+
+		"message.1vs1.gamerulesSaved": "{PREFIX}Gamerules saved.",
 
 		"message.cloudsigns.serverIsFull": "{PREFIX}§cServer is full.",
 
@@ -98,6 +102,7 @@
 		"message.nick.false": "{PREFIX}§cUnnicked yourself.",
 		"message.nick.remind.true": "{PREFIX}§aYou are nicked.",
 
+		"popup.game.endsIn": "§cEnds in {0}",
 		"popup.game.startsIn": "§eStarting in §9{0}§e seconds",
 		"popup.game.getdown.roundEndsIn": "§eRound ends automatically in §9{0}§e seconds.",
 		"popup.game.getdown.matchStartsIn": "§eMatch starts in §9{0} seconds",
@@ -136,6 +141,13 @@
 		"ui.title.group.give": "Give Group: {0}",
 		"ui.title.group.info": "Group Info",
 		"ui.title.group.add": "Add Group",
+		"ui.title.blacksmith": "Blacksmith",
+		"ui.title.gamerules": "Game Settings",
+
+		"ui.text.blacksmith": "Here you can customize your kit items.",
+		"ui.text.votePvP": "Do you want, that PvP is enabled while the Round is running?",
+		"ui.text.purchase": "Buy for",
+		"ui.text.confirmation": "§l§eConfirmation§r",
 
 		"ui.text.yourCoins": "§9Your Coins §c{0}",
 		"ui.input.insertPlayer": "Insert player name",
@@ -145,6 +157,20 @@
 		"ui.button.back": "§cBack",
 		"ui.button.add": "§2Add",
 		"ui.button.remove": "§4Remove",
+		"ui.button.rename": "§7Rename",
+		"ui.button.enchant": "§7Enchant",
+		"ui.button.durability": "§7Durability",
+		"ui.button.projectile": "§7Projectile",
+		"ui.button.enchant.add": "§7Add enchantment",
+		"ui.button.enchant.edit": "§7Edit enchantment",
+		"ui.button.enchant.remove": "§7Remove enchantment",
+		"ui.button.kit.add": "§7Add kit",
+		"ui.button.kit.edit": "§7Edit kit",
+		"ui.button.kit.remove": "§7Remove kit",
+		"ui.button.kit.list": "§7List kits",
+		"ui.toggle.enableScoreboard": "§7Enable Scoreboard",
+		"ui.toggle.onOff": "§aOn§7/§cOff",
+		"ui.slider.selectedKit": "§7Select Kit",
 		"ui.button.group.manage.groups": "Manage groups",
 		"ui.button.group.manage.players": "Manage players",
 		"ui.button.group.add": "Add group",
@@ -168,6 +194,27 @@
 
 		"entity.queue": "§9Queue",
 		"entity.1vs1.gamerules": "§dGamerules",
-		"entity.1vs1.blacksmith": "§eBlacksmith"
+		"entity.1vs1.blacksmith": "§eBlacksmith",
+
+		"1vs1.gamerule.place": "Allow place blocks",
+		"1vs1.gamerule.break": "Allow break blocks",
+		"1vs1.gamerule.drop": "Allow drop items",
+		"1vs1.gamerule.pickupItems": "Allow pickup items",
+		"1vs1.gamerule.pickupArrows": "Allow pickup arrows",
+		"1vs1.gamerule.soupRegeneration": "Enable soup-regeneration",
+		"1vs1.gamerule.fallDamage": "Enable fall damage",
+		"1vs1.gamerule.tntDamage": "Enable TNT-Damage",
+		"1vs1.gamerule.fireDamage": "Enable Fire-Damage",
+		"1vs1.gamerule.noHitDelay": "Enable No hit delay",
+		"1vs1.gamerule.oneHit": "Enable One hit",
+		"1vs1.gamerule.noRegeneration": "Enable no regeneration",
+		"1vs1.gamerule.hunger": "Activate Hunger",
+		"1vs1.gamerule.crafting": "Allow Crafting",
+		"1vs1.gamerule.doubleJump": "Allow Double jump",
+		"1vs1.gamerule.redouceKnockback": "Allow Redouce Knockback",
+		"1vs1.gamerule.knockback": "Knockback strength",
+		"1vs1.gamerule.levelTime": "World Time",
+		"1vs1.gamerule.stopLevelTime": "Stop time",
+		"1vs1.gamerule.levelDifficulty": "World Difficulty"
 	}
 }
