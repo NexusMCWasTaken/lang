@@ -1,7 +1,7 @@
 {
 	"name": "English",
 	"locale": "eng",
-	"prefix": "§9NexusMC §8§l» §r§7",
+	"prefix": "§5Nexus§eMC §8» §7",
 	"currency": "${0}",
 	"contributors": ["xxAROX"],
 	"values": {
