@@ -29,6 +29,7 @@
 		"raw.error": "§4Error",
 		"raw.price": "Price: {0}",
 		"raw.coins": "Coins",
+		"raw.settings": "Settings",
 		"raw.projectile": "Projectile",
 		"raw.enchantment": "Enchantment",
 		"raw.days": "Days",
@@ -145,6 +146,8 @@
 
 		"ui.title.query": "{0} Results for {1}",
 		"ui.title.report": "Report Menu",
+		"ui.title.report.bug": "Report a bug",
+		"ui.title.report.language": "Report a language issue",
 		"ui.title.group": "Group Menu",
 		"ui.title.group.players": "Player Menu",
 		"ui.title.group.give": "Give Group: {0}",
@@ -159,9 +162,8 @@
 		"ui.text.votePvP": "Do you want, that PvP is enabled while the Round is running?",
 		"ui.text.purchase": "Buy for ",
 		"ui.text.confirmation": "§l§eConfirmation§r",
-
 		"ui.text.yourCoins": "§9Your Coins §c{0}",
-		"ui.input.insertPlayer": "Insert player name",
+		"ui.text.report.language.selectedLanguage": "Selected language: §9{0}",
 
 		"ui.button.cancel": "§cCancel",
 		"ui.button.close": "§cClose",
@@ -193,9 +195,34 @@
 		"ui.button.group.player.permissions": "Edit player permissions",
 		"ui.button.group.player.jump": "§2Jump to §a{0}",
 		"ui.button.group.player.jump.already": "§m§2Jump to §a{0}\n§c§oCan't jump, already connected.",
+		"ui.button.report.player": "Report player",
+		"ui.button.report.bug": "Report bug",
+		"ui.button.report.language": "Report language issue",
+		"ui.button.report.list": "Player reports",
+
 		"ui.toggle.onOff": "§aOn§7/§cOff",
+
 		"ui.slider.selectedKit": "§7Select Kit",
+
+		"ui.dropdown.option.report.language.rawKey": "Text is raw(like '§ctranslation.not.found§f')",
+		"ui.dropdown.option.report.language.typo": "Wrong translation(like 'You §cwas §fkilled')",
+		"ui.dropdown.option.report.language.wrongTranslation": "Wrong translation message",
+
+		"ui.input.insertPlayer": "Insert player name",
 		"ui.input.currentKitCustomName": "Insert current kit Custom-Name",
+		"ui.input.title": "Title",
+		"ui.input.stepsToReproduce": "Steps to reproduce",
+		"ui.input.expectHappened": "What should happened?",
+		"ui.input.actualHappened": "What actually happened?",
+		"ui.input.language.key": "What key is ",
+
+		"ui.placeholder.report.bug.title": "e.g Item duplicate bug",
+		"ui.placeholder.report.bug.stepsToReproduce": "e.g Go to BedWars|Open shop|etc.",
+
+		"ui.error.report.short.title": "'Title' is to short",
+		"ui.error.report.short.steps": "'Steps to reproduce' is to short",
+		"ui.error.report.short.expectHappened": "'Expect happened' is to short",
+		"ui.error.report.short.actualHappened": "'Actual happened' is to short",
 
 		"ui.group.error.short.name": "Name is to short",
 		"ui.group.error.invalid.color": "Invalid color",
@@ -227,6 +254,15 @@
 		"1vs1.gamerule.knockback": "Knockback strength",
 		"1vs1.gamerule.levelTime": "World Time",
 		"1vs1.gamerule.stopLevelTime": "Stop time",
-		"1vs1.gamerule.levelDifficulty": "World Difficulty"
+		"1vs1.gamerule.levelDifficulty": "World Difficulty",
+
+		"ui.playersettings.enable": "§2ENABLED",
+		"ui.playersettings.disable": "§4DISABLED",
+		"ui.playersettings.enable_damage_indicator": "Enable damage indicator",
+		"ui.playersettings.damage_indicator_spread": "Damage indicator spreading",
+		"ui.playersettings.enable_scoreboard": "Enable scoreboard",
+		"ui.playersettings.enable_coin_count_animation": "Enable coin count animation",
+		"ui.playersettings.enable_chat": "Enable messages from chat",
+		"ui.playersettings.enable_language_debug": "Enable language debug mode(for reports)"
 	}
 }
