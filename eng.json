@@ -80,6 +80,8 @@
 		"message.game.win.player": "{PREFIX}§a{0} won",
 		"message.game.win.you": "{PREFIX}§aYou won",
 		"message.alreadyVoted": "{PREFIX}§cYou voted already.",
+		"message.build.enabled": "{PREFIX}§aBuild mode enabled",
+		"message.build.disabled": "{PREFIX}§cBuild mode disabled",
 		"message.fly.enabled": "{PREFIX}§aFly enabled",
 		"message.fly.enabled.other": "{PREFIX}§aFly enabled for {0}",
 		"message.fly.disabled": "{PREFIX}§cFly disabled",
