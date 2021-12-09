@@ -149,6 +149,8 @@
 		"ui.title.report.bug": "Report a bug",
 		"ui.title.report.language": "Report a language issue",
 		"ui.title.group": "Group Menu",
+		"ui.title.group.nick": "Nick Menu",
+		"ui.title.group.select": "Select a Group",
 		"ui.title.group.players": "Player Menu",
 		"ui.title.group.give": "Give Group: {0}",
 		"ui.title.group.info": "Group Info",
@@ -216,8 +218,12 @@
 		"ui.input.actualHappened": "What actually happened?",
 		"ui.input.language.key": "What key is ",
 
+		"ui.placeholder.nick.selectName": "Select a Custom-Nickname. §o(optional)",
 		"ui.placeholder.report.bug.title": "e.g Item duplicate bug",
 		"ui.placeholder.report.bug.stepsToReproduce": "e.g Go to BedWars|Open shop|etc.",
+
+		"ui.error.title": "§4Error",
+		"ui.error.reportBugText": "Please report this bug, by using '/report bug'",
 
 		"ui.error.report.short.title": "'Title' is to short",
 		"ui.error.report.short.steps": "'Steps to reproduce' is to short",
@@ -227,9 +233,11 @@
 		"ui.group.error.short.name": "Name is to short",
 		"ui.group.error.invalid.color": "Invalid color",
 		"ui.group.error.already": "Group {0} already exists",
+		"ui.group.error.missing.permission": "Missing permission",
 		"ui.group.error.invalid.permission": "Invalid permission",
 		"ui.group.error.already.permission": "Group has already {0} permission",
 		"ui.group.error.!already.permission": "Group doesn't has {0} permission",
+		"ui.group.error.nick.cancel": "§cNick disabled",
 
 		"entity.queue": "§9Queue",
 		"entity.1vs1.gamerules": "§dGamerules",
