@@ -168,6 +168,7 @@
 		"ui.text.confirmation": "§l§eConfirmation§r",
 		"ui.text.yourCoins": "§9Your Coins §c{0}",
 		"ui.text.report.language.selectedLanguage": "Selected language: §9{0}",
+		"ui.text.nick.ownskin": "Use own skin",
 
 		"ui.button.cancel": "§cCancel",
 		"ui.button.close": "§cClose",
@@ -231,6 +232,7 @@
 		"ui.error.report.short.steps": "'Steps to reproduce' is to short",
 		"ui.error.report.short.expectHappened": "'Expect happened' is to short",
 		"ui.error.report.short.actualHappened": "'Actual happened' is to short",
+		"ui.error.report.short.language.key": "'Key' is to short",
 
 		"ui.group.error.short.name": "Name is to short",
 		"ui.group.error.invalid.color": "Invalid color",
@@ -260,7 +262,7 @@
 		"1vs1.gamerule.hunger": "Activate Hunger",
 		"1vs1.gamerule.crafting": "Allow Crafting",
 		"1vs1.gamerule.doubleJump": "Allow Double jump",
-		"1vs1.gamerule.redouceKnockback": "Allow Redouce Knockback",
+		"1vs1.gamerule.reduceKnockback": "Allow Reduce Knockback",
 		"1vs1.gamerule.knockback": "Knockback strength",
 		"1vs1.gamerule.levelTime": "World Time",
 		"1vs1.gamerule.stopLevelTime": "Stop time",
@@ -273,6 +275,8 @@
 		"ui.playersettings.enable_scoreboard": "Enable scoreboard",
 		"ui.playersettings.enable_coin_count_animation": "Enable coin count animation",
 		"ui.playersettings.enable_chat": "Enable messages from chat",
-		"ui.playersettings.enable_language_debug": "Enable language debug mode(for reports)"
+		"ui.playersettings.enable_language_debug": "Enable language debug mode(for reports)",
+
+		"message.locker.player.already.own": "{PREFIX}{0}§c already unlocked §b{1}§c."
 	}
 }
