@@ -110,9 +110,15 @@
 
 		"message.security.caps": "{PREFIX}§cThat message contains too much upper-case letters.",
 		"message.security.spam": "{PREFIX}§cPlease do not spam into the chat.",
+		"message.security.ip": "{PREFIX}§cIP-Address detected, blocking.",
+		"message.security.url": "{PREFIX}§cURL detected, blocking.",
+		"message.security.email": "{PREFIX}§cEmail detected, blocking.",
 		"message.nick.true": "{PREFIX}§aNicked yourself.",
 		"message.nick.false": "{PREFIX}§cUnnicked yourself.",
 		"message.nick.remind.true": "{PREFIX}§aYou are nicked.",
+
+		"message.locker.player.already.own": "{PREFIX}§c{0}§c already unlocked §b{1}§c.",
+		"message.locker.player.gift": "{PREFIX}§dYou received a gift by §e{0}§d.",
 
 		"popup.game.endsIn": "§cEnds in {0}",
 		"popup.game.startsIn": "§eStarting in §9{0}§e seconds",
@@ -174,6 +180,7 @@
 		"ui.button.close": "§cClose",
 		"ui.button.back": "§cBack",
 		"ui.button.buy": "§2Buy",
+		"ui.button.confirm": "§2Confirm",
 		"ui.button.add": "§2Add",
 		"ui.button.remove": "§4Remove",
 		"ui.button.rename": "§7Rename",
@@ -277,6 +284,8 @@
 		"ui.playersettings.enable_chat": "Enable messages from chat",
 		"ui.playersettings.enable_language_debug": "Enable language debug mode(for reports)",
 
-		"message.locker.player.already.own": "{PREFIX}{0}§c already unlocked §b{1}§c."
+		"locker.stick": "Stick",
+		"locker.block": "Block",
+		"locker.item_projectile": "Item-Projectile"
 	}
 }
