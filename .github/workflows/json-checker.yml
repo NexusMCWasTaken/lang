@@ -1,0 +1,22 @@
+name: JSON check
+
+on:
+  push:
+    paths:
+      - "**.json"
+      - "!.properties.json"
+  pull_request:
+    paths:
+      - "**.json"
+      - "!.properties.json"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: JSON Syntax check
+        uses: limitusus/json-syntax-check@v1
+        with:
+          pattern: "\\.json$"
