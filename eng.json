@@ -167,6 +167,7 @@
 		"ui.title.gamerules": "Game Settings",
 		"ui.title.purchase": "Purchase: {0}",
 		"ui.title.settings": "Settings",
+		"ui.title.language": "Language",
 
 		"ui.text.blacksmith": "Here you can customize your kit items.",
 		"ui.text.votePvP": "Do you want, that PvP is enabled while the Round is running?",
@@ -175,6 +176,8 @@
 		"ui.text.yourCoins": "§9Your Coins §c{0}",
 		"ui.text.report.language.selectedLanguage": "Selected language: §9{0}",
 		"ui.text.nick.ownskin": "Use own skin",
+		"ui.text.language.select": "Choose language",
+		"ui.text.language.info": "§9Name§f: §b{0}\n§9Contributors§f: §b{1}\n§9Loaded keys§f: §b{2}",
 
 		"ui.button.cancel": "§cCancel",
 		"ui.button.close": "§cClose",
