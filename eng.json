@@ -44,6 +44,13 @@
 
 		"reason.purchase.kit.max": "You reached the Kit slot maximum.",
 
+		"bytes.b": "B",
+		"bytes.kb": "KB",
+		"bytes.mb": "MB",
+		"bytes.gb": "GB",
+		"bytes.tb": "TB",
+		"bytes.pt": "PT",
+
 		"time.year": "year",
 		"time.year.short": "y",
 		"time.years": "years",

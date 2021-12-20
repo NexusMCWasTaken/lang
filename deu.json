@@ -44,7 +44,14 @@
 
         "reason.purchase.kit.max": "Du hast das Kit-Slot maximum erreicht.",
 
-        "time.year": "Jahr",
+		"bytes.b": "B",
+		"bytes.kb": "KB",
+		"bytes.mb": "MB",
+		"bytes.gb": "GB",
+		"bytes.tb": "TB",
+		"bytes.pt": "PT",
+
+		"time.year": "Jahr",
 		"time.year.short": "J",
 		"time.years": "Jahre",
 		"time.month": "Monate",
