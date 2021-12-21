@@ -50,6 +50,11 @@
 		"bytes.gb": "GB",
 		"bytes.tb": "TB",
 		"bytes.pt": "PT",
+		"bit.kb": "Kb",
+		"bit.mb": "Mb",
+		"bit.gb": "Gb",
+		"bit.tb": "Tb",
+		"bit.pb": "Pb",
 
 		"time.year": "year",
 		"time.year.short": "y",
