@@ -179,6 +179,10 @@
 		"ui.title.gamerules": "Spieleinstellungen",
 		"ui.title.purchase": "Kaufen: {0}",
 		"ui.title.settings": "Einstellungen",
-		"ui.title.language": "Sprache"
+		"ui.title.language": "Sprache",
+	    
+    		"locker.stick": "Stick",
+		"locker.block": "Block",
+		"locker.item_projectile": "Item-Projektil"
     }
 }
