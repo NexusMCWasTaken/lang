@@ -300,7 +300,7 @@
 		"ui.playersettings.enable_language_debug": "Enable language debug mode (e.g. for reports).",
 
 		"locker.stick": "Stick",
-		"locker.block": "Block",
+		"locker.block": "blok",
 		"locker.item_projectile": "Item-Projectile"
 	}
 }
