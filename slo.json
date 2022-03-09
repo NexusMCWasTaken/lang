@@ -1,9 +1,9 @@
 {
-    "name": "Deutsch",
-    "locale": "deu",
+    "name": "Slovenský",
+    "locale": "slo",
     "prefix": "§9NexusMC §8§l» §r§7",
     "currency": "${0}",
-    "contributors": ["Steamarino"],
+    "contributors": ["DerGamer543HD"],
     "values": {
         "os.-1": "Unbekannt",
         "os.1": "Android",
