@@ -291,7 +291,7 @@
 		"1vs1.gamerule.levelDifficulty": "World Difficulty",
 
 		"ui.playersettings.enable": "§2AKTIVOVANÉ",
-		"ui.playersettings.disable": "§4DEAKTIVOVANÝ",
+		"ui.playersettings.disable": "§4DEAKTIVOVANÉ",
 		"ui.playersettings.enable_damage_indicator": "Enable damage indicator",
 		"ui.playersettings.damage_indicator_spread": "Damage indicator spreading",
 		"ui.playersettings.enable_scoreboard": "Enable scoreboard",
