@@ -177,7 +177,7 @@
 		"ui.title.group.add": "Add Group",
 		"ui.title.blacksmith": "Blacksmith",
 		"ui.title.gamerules": "Nastavenia hry",
-		"ui.title.purchase": "Purchase: {0}",
+		"ui.title.purchase": "Kúpiť: {0}",
 		"ui.title.settings": "Nastavenia",
 		"ui.title.language": "Jazyk",
 
@@ -196,7 +196,7 @@
 		"ui.button.back": "§cBack",
 		"ui.button.buy": "§2Buy",
 		"ui.button.confirm": "§2Confirm",
-		"ui.button.add": "§2Add",
+		"ui.button.add": "§2Pridať",
 		"ui.button.remove": "§4Remove",
 		"ui.button.rename": "§7Rename",
 		"ui.button.enchant": "§7Enchant",
@@ -209,9 +209,9 @@
 		"ui.button.kit.edit": "§7Edit kit",
 		"ui.button.kit.remove": "§7Remove kit",
 		"ui.button.kit.list": "§7List kits",
-		"ui.button.group.manage.groups": "Manage groups",
-		"ui.button.group.manage.players": "Manage players",
-		"ui.button.group.add": "Add group",
+		"ui.button.group.manage.groups": "Spravovať skupiny", //
+		"ui.button.group.manage.players": "Spravovať players", //
+		"ui.button.group.add": "Pridať group",
 		"ui.button.group.edit": "Edit group",
 		"ui.button.group.edit.permissions": "Edit group permissions",
 		"ui.button.group.edit.parents": "Edit group-parents",
@@ -247,7 +247,7 @@
 		"ui.placeholder.report.bug.title": "e.g Item duplicate bug",
 		"ui.placeholder.report.bug.stepsToReproduce": "e.g Go to BedWars|Open shop|etc.",
 
-		"ui.error.title": "§4Error",
+		"ui.error.title": "§4Chyba",
 		"ui.error.reportBugText": "Please report this bug, by using '/report bug'",
 
 		"ui.error.report.short.title": "'Title' is to short",
