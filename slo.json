@@ -290,7 +290,7 @@
 		"1vs1.gamerule.stopLevelTime": "Stop time",
 		"1vs1.gamerule.levelDifficulty": "World Difficulty",
 
-		"ui.playersettings.enable": "§2ENABLED",
+		"ui.playersettings.enable": "§2AKTIVOVANÉ",
 		"ui.playersettings.disable": "§4DISABLED",
 		"ui.playersettings.enable_damage_indicator": "Enable damage indicator",
 		"ui.playersettings.damage_indicator_spread": "Damage indicator spreading",
