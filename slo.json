@@ -3,7 +3,7 @@
     "locale": "slo",
     "prefix": "§9NexusMC §8§l» §r§7",
     "currency": "${0}",
-    "contributors": ["DerGamer543HD"],
+    "contributors": ["DerGamer543HD001"],
     "values": {
         "os.-1": "Unbekannt",
         "os.1": "Android",
@@ -21,7 +21,7 @@
 		"os.13": "XBox",
 		"os.14": "Windows Phone",
 		"inputMode.0": "Unbekannt",
-		"inputMode.1": "Maus",
+		"inputMode.1": "Myš",
 		"inputMode.2": "Touch",
 		"inputMode.3": "Gamepad",
 		"inputMode.4": "Controller",
@@ -155,8 +155,8 @@
 
         "ui.getdown.enchanting.title": "Verzaubern",
 		"ui.getdown.enchanting.title.long": "Verzaubern\n§9Item in deiner Hand",
-		"ui.getdown.shop.title": "Shop",
-		"ui.getdown.shop.title.category": "Shop - {0}",
+		"ui.getdown.shop.title": "Obchod",
+		"ui.getdown.shop.title.category": "Obchod - {0}",
 
         "ui.getdown.error": "§4Error\n§7{0} existiert nicht.",
 		"ui.getdown.notEnoughCoins": "§c{0}\n§c§oDu hast nicht geügend Coins, um diesen Artikel zu kaufen.",
