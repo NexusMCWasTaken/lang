@@ -5,7 +5,7 @@
 	"currency": "${0}",
 	"contributors": ["DerGamer543HD001"],
 	"values": {
-		"os.-1": "Unknown",
+		"os.-1": "Neznámy",
 		"os.1": "Android",
 		"os.2": "IOS",
 		"os.3": "Mac OS",
