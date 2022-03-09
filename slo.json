@@ -20,7 +20,7 @@
 		"os.12": "Nintendo Switch",
 		"os.13": "Xbox",
 		"os.14": "Windows Phone",
-		"inputMode.0": "Unknown",
+		"inputMode.0": "Neznámy",
 		"inputMode.1": "Mouse",
 		"inputMode.2": "Touch",
 		"inputMode.3": "Gamepad",
@@ -291,7 +291,7 @@
 		"1vs1.gamerule.levelDifficulty": "World Difficulty",
 
 		"ui.playersettings.enable": "§2AKTIVOVANÉ",
-		"ui.playersettings.disable": "§4DISABLED",
+		"ui.playersettings.disable": "§4DEAKTIVOVANÝ",
 		"ui.playersettings.enable_damage_indicator": "Enable damage indicator",
 		"ui.playersettings.damage_indicator_spread": "Damage indicator spreading",
 		"ui.playersettings.enable_scoreboard": "Enable scoreboard",
