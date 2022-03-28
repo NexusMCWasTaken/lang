@@ -183,7 +183,7 @@
 
 		"ui.text.blacksmith": "Here you can customize your kit items.",
 		"ui.text.votePvP": "Do you want to enable PvP while the round has already begun?",
-		"ui.text.purchase": "Buy for {0} coins",
+		"ui.text.purchase": "Kúpiť za {0} coins",
 		"ui.text.confirmation": "§l§eConfirmation§r",
 		"ui.text.yourCoins": "§9Your coins §c{0}",
 		"ui.text.report.language.selectedLanguage": "Selected language: §9{0}",
