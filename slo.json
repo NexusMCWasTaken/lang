@@ -227,7 +227,7 @@
 		"ui.button.report.language": "Report language issue",
 		"ui.button.report.list": "Player reports",
 
-		"ui.toggle.onOff": "§aOn§7/§cOff",
+		"ui.toggle.onOff": "§aZapnuté§7/§cVypnuté",
 
 		"ui.slider.selectedKit": "§7Select Kit",
 
