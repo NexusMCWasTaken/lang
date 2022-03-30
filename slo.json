@@ -209,8 +209,8 @@
 		"ui.button.kit.edit": "§7Edit kit",
 		"ui.button.kit.remove": "§7Remove kit",
 		"ui.button.kit.list": "§7List kits",
-		"ui.button.group.manage.groups": "Spravovať skupiny", //
-		"ui.button.group.manage.players": "Spravovať players", //
+		"ui.button.group.manage.groups": "Spravovať skupiny",
+		"ui.button.group.manage.players": "Spravovať players",
 		"ui.button.group.add": "Pridať group",
 		"ui.button.group.edit": "Edit group",
 		"ui.button.group.edit.permissions": "Edit group permissions",
