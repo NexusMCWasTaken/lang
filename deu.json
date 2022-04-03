@@ -260,7 +260,7 @@
 		"ui.group.error.invalid.color": "Ungültige Farbe",
 		"ui.group.error.already": "Die Gruppe {0} existiert bereits",
 		"ui.group.error.missing.permission": "Fehlende Erlaubnis",
-		"ui.group.error.invalid.permission": "Invalid permission",
+		"ui.group.error.invalid.permission": "Ungültige Erlaubnis",
 		"ui.group.error.already.permission": "Die Gruppe hat bereits {0} rechte",
 		"ui.group.error.!already.permission": "Die Gruppe hat nicht {0} rechte",
 		"ui.group.error.nick.cancel": "§cNick deaktiviert",
