@@ -254,9 +254,9 @@
 		"ui.error.report.short.steps": "'Schritte zum reproduzieren' ist zu kurz",
 		"ui.error.report.short.expectHappened": "'Erwartet das es passiert ist' ist zu kurz",
 		"ui.error.report.short.actualHappened": "'Tatsächlich passiert' ist zu kurz",
-		"ui.error.report.short.language.key": "'Key' ist zu klein",
+		"ui.error.report.short.language.key": "'Key' ist zu kurz",
 
-		"ui.group.error.short.name": "Der Name dieser gruppe ist zu klein",
+		"ui.group.error.short.name": "Der Name dieser gruppe ist zu kurz",
 		"ui.group.error.invalid.color": "Ungültige Farbe",
 		"ui.group.error.already": "Die Gruppe {0} existiert bereits",
 		"ui.group.error.missing.permission": "Fehlende Erlaubnis",
